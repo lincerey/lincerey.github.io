@@ -6,3 +6,5 @@ Disallow: /redactar
 # La publicidad y los recursos de medición de Google se rastrean aparte.
 User-agent: Mediapartners-Google
 Allow: /
+
+Sitemap: https://lincerey.github.io/sitemap.xml

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T09:50:15.656Z",
+  "generatedAt": "2026-10-11T09:57:41.557Z",
   "itemCount": 34,
   "sources": [
     {
@@ -58,6 +58,15 @@
     }
   ],
   "items": [
+    {
+      "title": "La ONU y la UE condenan el ataque de los hutíes al aeropuerto de Riad",
+      "url": "https://www.clarin.com/estados-unidos/la-onu-y-la-ue-condenan-el-ataque-de-los-huties-al-aeropuerto-de-riad_0_6HN7m2vpW4.html",
+      "excerpt": "La ONU y la UE condenan el ataque de combatientes respaldados por Irán al aeropuerto saudita, que dejó decenas de víctimas. Urgen detener la violencia. Líderes europeos advierten…",
+      "publishedAt": "2026-10-11T09:30:12.000Z",
+      "sourceId": "clarin",
+      "sourceName": "Clarín",
+      "sourceDomain": "clarin.com"
+    },
     {
       "title": "Por qué es importante saber poner límites y cuáles son los riesgos de no hacerlo",
       "url": "https://www.clarin.com/viva/importante-saber-poner-limites-riesgos-hacerlo_0_8jkNitDGC4.html",
@@ -122,15 +131,6 @@
       "sourceDomain": "clarin.com"
     },
     {
-      "title": "Mercado Libre y su receta contra las plataformas chinas: \"Variedad, precio y también cuándo llega el pedido y qué respuesta recibe el usuario\"",
-      "url": "https://www.clarin.com/economia/mercado-libre-receta-plataformas-chinas-variedad-precio-llega-pedido-respuesta-recibe-usuario_0_NxeGkItZ6g.html",
-      "excerpt": "Juan Martín De la Serna, presidente de la firma, dijo que la cercanía con los vendedores locales los diferencia en medio de la apertura económica. La empresa lideró por séptimo…",
-      "publishedAt": "2026-10-11T09:00:11.000Z",
-      "sourceId": "clarin",
-      "sourceName": "Clarín",
-      "sourceDomain": "clarin.com"
-    },
-    {
       "title": "El Rolls-Royce de 1910 que recorrió Europa con la familia Pereyra Iraola y esquivó el hundimiento del Titanic",
       "url": "https://www.lanacion.com.ar/sociedad/el-rolls-royce-de-1910-que-recorrio-europa-con-la-familia-pereyra-iraola-y-esquivo-el-hundimiento-nid11102026/",
       "excerpt": "El Silver Ghost 40/50 HP, de 116 años, fue construido para una travesía por el Viejo Continente; está expuesto en Autoclásica 2026, hasta este lunes",
@@ -167,6 +167,15 @@
       "sourceDomain": "lanacion.com.ar"
     },
     {
+      "title": "Golpe a las visas H-1B y J-1: EE.UU. suspende a empresas y universidades por patrocinar trabajadores extranjeros",
+      "url": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/golpe-a-las-visas-h-1b-y-j-1-eeuu-suspende-a-empresas-y-universidades-por-patrocinar-trabajadores-nid11102026/",
+      "excerpt": "Descubre qué pasa con las visas H-1B y J-1: EE.UU. frena trámites de residencia para Microsoft, Adobe y otras seis empresas e investiga universidades.",
+      "publishedAt": "2026-10-11T08:00:00.000Z",
+      "sourceId": "la-nacion",
+      "sourceName": "La Nación",
+      "sourceDomain": "lanacion.com.ar"
+    },
+    {
       "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
       "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
       "excerpt": "El académico analizó la transición cognitiva en la madurez; explicó cómo el declive de la agilidad mental juvenil abre paso a una capacidad analítica superior",
@@ -179,15 +188,6 @@
       "title": "Se avecina un cambio parcial del pronóstico en el AMBA, aunque se mantendrán las lloviznas dispersas y temperaturas algo frescas para la época: las zonas afectadas",
       "url": "https://www.lanacion.com.ar/sociedad/se-avecina-un-cambio-parcial-del-pronostico-en-el-amba-aunque-se-mantendran-las-lloviznas-dispersas-nid11102026/",
       "excerpt": "Este domingo podría ofrecer algunas apariciones del sol en la ciudad y el conurbano, dentro de un escenario todavía dominado por las nubes; en la costa bonaerense persistirán las…",
-      "publishedAt": "2026-10-11T08:00:00.000Z",
-      "sourceId": "la-nacion",
-      "sourceName": "La Nación",
-      "sourceDomain": "lanacion.com.ar"
-    },
-    {
-      "title": "Golpe a las visas H-1B y J-1: EE.UU. suspende a empresas y universidades por patrocinar trabajadores extranjeros",
-      "url": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/golpe-a-las-visas-h-1b-y-j-1-eeuu-suspende-a-empresas-y-universidades-por-patrocinar-trabajadores-nid11102026/",
-      "excerpt": "Descubre qué pasa con las visas H-1B y J-1: EE.UU. frena trámites de residencia para Microsoft, Adobe y otras seis empresas e investiga universidades.",
       "publishedAt": "2026-10-11T08:00:00.000Z",
       "sourceId": "la-nacion",
       "sourceName": "La Nación",
