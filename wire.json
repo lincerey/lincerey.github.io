@@ -1,0 +1,368 @@
+{
+  "generatedAt": "2026-10-11T09:40:12.588Z",
+  "itemCount": 34,
+  "sources": [
+    {
+      "id": "bbc-mundo",
+      "name": "BBC Mundo",
+      "domain": "bbc.com",
+      "url": "https://feeds.bbci.co.uk/mundo/rss.xml",
+      "ok": true,
+      "error": null,
+      "count": 8
+    },
+    {
+      "id": "el-pais",
+      "name": "El País",
+      "domain": "elpais.com",
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+      "ok": true,
+      "error": null,
+      "count": 8
+    },
+    {
+      "id": "clarin",
+      "name": "Clarín",
+      "domain": "clarin.com",
+      "url": "https://www.clarin.com/rss/lo-ultimo/",
+      "ok": true,
+      "error": null,
+      "count": 8
+    },
+    {
+      "id": "la-nacion",
+      "name": "La Nación",
+      "domain": "lanacion.com.ar",
+      "url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/",
+      "ok": true,
+      "error": null,
+      "count": 8
+    },
+    {
+      "id": "el-mundo",
+      "name": "El Mundo",
+      "domain": "elmundo.es",
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+      "ok": true,
+      "error": null,
+      "count": 8
+    },
+    {
+      "id": "france24-es",
+      "name": "France 24",
+      "domain": "france24.com",
+      "url": "https://www.france24.com/es/rss",
+      "ok": true,
+      "error": null,
+      "count": 8
+    }
+  ],
+  "items": [
+    {
+      "title": "Por qué es importante saber poner límites y cuáles son los riesgos de no hacerlo",
+      "url": "https://www.clarin.com/viva/importante-saber-poner-limites-riesgos-hacerlo_0_8jkNitDGC4.html",
+      "excerpt": "El límite es una experiencia psíquica que organiza al sujeto. Los casos de quien no puede poner límites y quien no tolera el límite de los otros. Cómo repercute en la salud y por…",
+      "publishedAt": "2026-10-11T09:04:10.000Z",
+      "sourceId": "clarin",
+      "sourceName": "Clarín",
+      "sourceDomain": "clarin.com"
+    },
+    {
+      "title": "Cómo fue la cinematográfica fuga de anarquistas de una cárcel uruguaya que luego fue imitada por militantes Tupamaros",
+      "url": "https://www.clarin.com/viva/cinematografica-fuga-anarquistas-carcel-uruguaya-luego-imitada-militantes-tupamaros_0_UaGc68gAoT.html",
+      "excerpt": "En marzo de 1931 militantes anarquistas se fugaron de la cárcel de Punta Carretas en Uruguay. Desde una casa frente a la cárcel se cavó un túnel y por allí salieron. Ese mismo…",
+      "publishedAt": "2026-10-11T09:02:10.000Z",
+      "sourceId": "clarin",
+      "sourceName": "Clarín",
+      "sourceDomain": "clarin.com"
+    },
+    {
+      "title": "Valtor Eaglon en Autoclásica: cómo es el superdeportivo argentino que reúne a Oreste Berta y un ex diseñador de Alfa Romeo y Audi",
+      "url": "https://www.clarin.com/autos/valtor-eaglon-autoclasica-superdeportivo-argentino-reune-oreste-berta-ex-disenador-alfa-romeo-audi_0_yvRmt7lwP4.html",
+      "excerpt": "Después de más de dos años de desarrollo, la firma argentina presentó una maqueta a escala real del deportivo. La compañía busca inversores para iniciar su producción artesanal.",
+      "publishedAt": "2026-10-11T09:02:10.000Z",
+      "sourceId": "clarin",
+      "sourceName": "Clarín",
+      "sourceDomain": "clarin.com"
+    },
+    {
+      "title": "Ofertas y promociones: cae el consumo y empresarios agudizarán estrategias para sostener las ventas",
+      "url": "https://www.clarin.com/economia/ofertas-promociones-cae-consumo-empresarios-agudizaran-estrategias-sostener-ventas_0_hUI34zYkfg.html",
+      "excerpt": "Es una política de ventas que hoy está vigente pero que la industria sostiene que no podrá eliminar. Las consultoras, en general, esperan un crecimiento del consumo entre muy leve…",
+      "publishedAt": "2026-10-11T09:00:13.000Z",
+      "sourceId": "clarin",
+      "sourceName": "Clarín",
+      "sourceDomain": "clarin.com"
+    },
+    {
+      "title": "Luces amarillas en el crecimiento de la economía",
+      "url": "https://www.clarin.com/economia/luces-amarillas-crecimiento-economia_0_mgoKcKDVDW.html",
+      "excerpt": "El Banco Mundial redujo su previsión para 2026 a 2,1%, después de haber calculado 4% en enero y revisado a 3,6% en junio. Entre enero y julio la actividad acumuló un crecimiento…",
+      "publishedAt": "2026-10-11T09:00:12.000Z",
+      "sourceId": "clarin",
+      "sourceName": "Clarín",
+      "sourceDomain": "clarin.com"
+    },
+    {
+      "title": "Andrés Di Tella estrena Los Sauces, una ópera experimental inspirada en un clásico de la literatura fantástica: \"Estoy pisando un territorio nuevo\"",
+      "url": "https://www.clarin.com/espectaculos/andres-di-tella-estrena-sauces-opera-experimental-inspirada-clasico-literatura-fantastica-pisando-territorio-nuevo_0_U9uzFTAWZM.html",
+      "excerpt": "Di Tella se aventura en la nueva ópera con una propuesta colaborativa que combina actuación, proyecciones y composición musical. El cineasta y ensayista presenta esta experiencia…",
+      "publishedAt": "2026-10-11T09:00:12.000Z",
+      "sourceId": "clarin",
+      "sourceName": "Clarín",
+      "sourceDomain": "clarin.com"
+    },
+    {
+      "title": "Una por una, cuáles son las 10 empresas con mejor reputación de la Argentina en 2026",
+      "url": "https://www.clarin.com/economia/10-empresas-mejor-reputacion-argentina-2026_0_yJqnzpfADq.html",
+      "excerpt": "Mercado Libre, YPF y Toyota encabezaron el ranking Merco Empresas, muchas con importantes proyectos de inversión en marcha.",
+      "publishedAt": "2026-10-11T09:00:11.000Z",
+      "sourceId": "clarin",
+      "sourceName": "Clarín",
+      "sourceDomain": "clarin.com"
+    },
+    {
+      "title": "Mercado Libre y su receta contra las plataformas chinas: \"Variedad, precio y también cuándo llega el pedido y qué respuesta recibe el usuario\"",
+      "url": "https://www.clarin.com/economia/mercado-libre-receta-plataformas-chinas-variedad-precio-llega-pedido-respuesta-recibe-usuario_0_NxeGkItZ6g.html",
+      "excerpt": "Juan Martín De la Serna, presidente de la firma, dijo que la cercanía con los vendedores locales los diferencia en medio de la apertura económica. La empresa lideró por séptimo…",
+      "publishedAt": "2026-10-11T09:00:11.000Z",
+      "sourceId": "clarin",
+      "sourceName": "Clarín",
+      "sourceDomain": "clarin.com"
+    },
+    {
+      "title": "El Rolls-Royce de 1910 que recorrió Europa con la familia Pereyra Iraola y esquivó el hundimiento del Titanic",
+      "url": "https://www.lanacion.com.ar/sociedad/el-rolls-royce-de-1910-que-recorrio-europa-con-la-familia-pereyra-iraola-y-esquivo-el-hundimiento-nid11102026/",
+      "excerpt": "El Silver Ghost 40/50 HP, de 116 años, fue construido para una travesía por el Viejo Continente; está expuesto en Autoclásica 2026, hasta este lunes",
+      "publishedAt": "2026-10-11T09:00:06.000Z",
+      "sourceId": "la-nacion",
+      "sourceName": "La Nación",
+      "sourceDomain": "lanacion.com.ar"
+    },
+    {
+      "title": "Las cuatro grandes dudas sobre Flavio Bolsonaro ante un posible regreso de su familia al poder",
+      "url": "https://www.lanacion.com.ar/el-mundo/las-cuatro-grandes-dudas-sobre-flavio-bolsonaro-ante-un-posible-regreso-de-su-familia-al-poder-nid11102026/",
+      "excerpt": "El candidato del PL busca proyectar una imagen moderada, pero sus propuestas sobre la Constitución, el ajuste económico y la alianza con Trump despiertan inquietud",
+      "publishedAt": "2026-10-11T09:00:01.000Z",
+      "sourceId": "la-nacion",
+      "sourceName": "La Nación",
+      "sourceDomain": "lanacion.com.ar"
+    },
+    {
+      "title": "El actor de Hollywood que compró un rancho de 25 hectáreas y lo convirtió en el refugio del caballo que lo acompañó en su salto a la fama",
+      "url": "https://www.lanacion.com.ar/estados-unidos/famosos/el-actor-de-hollywood-que-compro-un-rancho-de-25-hectareas-y-lo-convirtio-en-el-refugio-del-caballo-nid11102026/",
+      "excerpt": "Conozca el rancho de Tom Selleck en California, su historia desde 1988 y cómo el caballo Spike, retirado del cine, terminó viviendo allí.",
+      "publishedAt": "2026-10-11T09:00:00.000Z",
+      "sourceId": "la-nacion",
+      "sourceName": "La Nación",
+      "sourceDomain": "lanacion.com.ar"
+    },
+    {
+      "title": "¿Te cuesta comer “bien”? Un chef te dará técnicas para lograrlo en el Bienestar Fest",
+      "url": "https://www.lanacion.com.ar/salud/te-cuesta-comer-bien-un-chef-te-dara-tecnicas-para-lograrlo-en-el-bienestar-fest-nid11102026/",
+      "excerpt": "El reconocido chef, divulgador y periodista Pablo Martín participará del festival con una charla by Foodit donde compartirá los pasos de su técnica para incorporar hábitos…",
+      "publishedAt": "2026-10-11T08:54:00.000Z",
+      "sourceId": "la-nacion",
+      "sourceName": "La Nación",
+      "sourceDomain": "lanacion.com.ar"
+    },
+    {
+      "title": "Arthur Brooks, experto en felicidad de Harvard: “Hay una inteligencia que nace a partir de los 40 años”",
+      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid11102026/",
+      "excerpt": "El académico analizó la transición cognitiva en la madurez; explicó cómo el declive de la agilidad mental juvenil abre paso a una capacidad analítica superior",
+      "publishedAt": "2026-10-11T08:00:00.000Z",
+      "sourceId": "la-nacion",
+      "sourceName": "La Nación",
+      "sourceDomain": "lanacion.com.ar"
+    },
+    {
+      "title": "Se avecina un cambio parcial del pronóstico en el AMBA, aunque se mantendrán las lloviznas dispersas y temperaturas algo frescas para la época: las zonas afectadas",
+      "url": "https://www.lanacion.com.ar/sociedad/se-avecina-un-cambio-parcial-del-pronostico-en-el-amba-aunque-se-mantendran-las-lloviznas-dispersas-nid11102026/",
+      "excerpt": "Este domingo podría ofrecer algunas apariciones del sol en la ciudad y el conurbano, dentro de un escenario todavía dominado por las nubes; en la costa bonaerense persistirán las…",
+      "publishedAt": "2026-10-11T08:00:00.000Z",
+      "sourceId": "la-nacion",
+      "sourceName": "La Nación",
+      "sourceDomain": "lanacion.com.ar"
+    },
+    {
+      "title": "Golpe a las visas H-1B y J-1: EE.UU. suspende a empresas y universidades por patrocinar trabajadores extranjeros",
+      "url": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/golpe-a-las-visas-h-1b-y-j-1-eeuu-suspende-a-empresas-y-universidades-por-patrocinar-trabajadores-nid11102026/",
+      "excerpt": "Descubre qué pasa con las visas H-1B y J-1: EE.UU. frena trámites de residencia para Microsoft, Adobe y otras seis empresas e investiga universidades.",
+      "publishedAt": "2026-10-11T08:00:00.000Z",
+      "sourceId": "la-nacion",
+      "sourceName": "La Nación",
+      "sourceDomain": "lanacion.com.ar"
+    },
+    {
+      "title": "Adiós, Ron DeSantis: actualizaciones recientes de las encuestas para las elecciones de Florida 2026",
+      "url": "https://especialess3.lanacion.com.ar/fonts/fonts-prumo-roboto.css",
+      "excerpt": "Byron Donalds mantiene el liderazgo en las encuestas para gobernador de Florida frente al demócrata David Jolly. Qué muestran los sondeos y cuáles son las claves de la carrera…",
+      "publishedAt": "2026-10-11T07:49:00.000Z",
+      "sourceId": "la-nacion",
+      "sourceName": "La Nación",
+      "sourceDomain": "lanacion.com.ar"
+    },
+    {
+      "title": "La Policía se despliega en la playa de El Guano de Ceuta para desalojar el último gran asentamiento ilegal de inmigrantes",
+      "url": "https://www.elmundo.es/espana/2026/10/11/6acb3418e85ece49688b458e.html",
+      "excerpt": "Allí acampan menos de un millar de marroquíes desde el desalojo de los asentamientos chabolistas en las playas del Trampolín y de Benítez Leer",
+      "publishedAt": "2026-10-11T07:08:37.000Z",
+      "sourceId": "el-mundo",
+      "sourceName": "El Mundo",
+      "sourceDomain": "elmundo.es"
+    },
+    {
+      "title": "Cándido Conde-Pumpido: “Cuestionar al Tribunal Constitucional es cuestionar la democracia”",
+      "url": "https://elpais.com/espana/2026-10-11/candido-conde-pumpido-cuestionar-al-tribunal-constitucional-es-cuestionar-la-democracia.html",
+      "excerpt": "El presidente de la corte de garantías recibe a EL PAÍS en la semana en la que se ha dictado la sentencia que ordena amnistiar la malversación del ‘procés’. Con su mandato…",
+      "publishedAt": "2026-10-11T03:30:01.000Z",
+      "sourceId": "el-pais",
+      "sourceName": "El País",
+      "sourceDomain": "elpais.com"
+    },
+    {
+      "title": "Los titulares en vídeo de la entrevista a Cándido Conde-Pumpido",
+      "url": "https://elpais.com/videos/2026-10-11/los-titulares-en-video-de-la-entrevista-a-candido-conde-pumpido.html",
+      "excerpt": "El presidente del Tribunal Constitucional explica la sentencia sobre la ley de amnistía, niega que exista ‘lawfare’ en España y recuerda que la Carta Magna establece la…",
+      "publishedAt": "2026-10-11T03:30:01.000Z",
+      "sourceId": "el-pais",
+      "sourceName": "El País",
+      "sourceDomain": "elpais.com"
+    },
+    {
+      "title": "La Crónica | Sánchez contra lo imposible",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-11/la-cronica-sanchez-contra-lo-imposible.html",
+      "excerpt": "Los datos previos son todavía más adversos para la izquierda que en 2023. Y el PP asegura que ha aprendido de los errores de entonces",
+      "publishedAt": "2026-10-11T03:30:01.000Z",
+      "sourceId": "el-pais",
+      "sourceName": "El País",
+      "sourceDomain": "elpais.com"
+    },
+    {
+      "title": "¿Juntos o separados? Calcula cómo se moverían los escaños con distintas coaliciones",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-11/juntos-o-separados-calcula-como-se-moverian-los-escanos-con-distintas-coaliciones.html",
+      "excerpt": "La izquierda del PSOE baraja una nueva agrupación. Calculamos cómo cambiarían los resultados con diferentes alianzas hipotéticas, en la izquierda y en la derecha",
+      "publishedAt": "2026-10-11T03:30:01.000Z",
+      "sourceId": "el-pais",
+      "sourceName": "El País",
+      "sourceDomain": "elpais.com"
+    },
+    {
+      "title": "Ada Colau, la exalcaldesa que puso la vivienda en la agenda pública ahora quiere dar el salto al Congreso",
+      "url": "https://elpais.com/espana/catalunya/2026-10-11/ada-colau-la-exalcaldesa-que-puso-la-vivienda-en-la-agenda-publica-ahora-quiere-dar-el-salto-al-congreso.html",
+      "excerpt": "La fundadora de los comunes y la PAH vuelve después de casi tres años de perfil bajo y se suma a su propio llamado de un “frente amplio” para frenar a la ultraderecha",
+      "publishedAt": "2026-10-11T03:30:01.000Z",
+      "sourceId": "el-pais",
+      "sourceName": "El País",
+      "sourceDomain": "elpais.com"
+    },
+    {
+      "title": "El movimiento de vivienda señala a los pequeños caseros: ¿son responsables del alza de los precios?",
+      "url": "https://elpais.com/economia/vivienda/2026-10-11/el-movimiento-de-vivienda-senala-a-los-pequenos-caseros-son-responsables-del-alza-de-los-precios.html",
+      "excerpt": "Las protestas ponen el foco sobre los particulares y la legitimidad del alquiler, mientras que los expertos discrepan sobre el papel de los propietarios en la crisis",
+      "publishedAt": "2026-10-11T03:30:01.000Z",
+      "sourceId": "el-pais",
+      "sourceName": "El País",
+      "sourceDomain": "elpais.com"
+    },
+    {
+      "title": "El gran enfado salta a las urnas",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-11/el-gran-enfado-salta-a-las-urnas.html",
+      "excerpt": "La crisis de la vivienda es el detonante de una indignación alimentada por factores como la falta de poder adquisitivo, la desconfianza en la política y la preocupación ante el…",
+      "publishedAt": "2026-10-11T03:30:01.000Z",
+      "sourceId": "el-pais",
+      "sourceName": "El País",
+      "sourceDomain": "elpais.com"
+    },
+    {
+      "title": "¿Vivienda, inmigración o Gobierno? Qué preocupa más a los votantes de cada partido",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-11/vivienda-inmigracion-o-gobierno-que-preocupa-mas-a-los-votantes-de-cada-partido.html",
+      "excerpt": "Los datos de casi siete años de barómetros del CIS permiten ver cómo la vivienda se ha disparado en los últimos años, más para los electores de PSOE y Sumar. Y evidencian el…",
+      "publishedAt": "2026-10-11T03:30:00.000Z",
+      "sourceId": "el-pais",
+      "sourceName": "El País",
+      "sourceDomain": "elpais.com"
+    },
+    {
+      "title": "El poderoso huracán Simon se acerca a la costa de México en el Pacífico con categoría 4",
+      "url": "https://www.bbc.com/mundo/articles/c6vg0ep71pxmo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Los servicios meteorológicos pronostican que Simon tocará tierra como un potente huracán en las costas del oeste de México el domingo.",
+      "publishedAt": "2026-10-11T02:45:03.000Z",
+      "sourceId": "bbc-mundo",
+      "sourceName": "BBC Mundo",
+      "sourceDomain": "bbc.com"
+    },
+    {
+      "title": "La OMS aún desconoce qué causó la muerte de una trabajadora de un laboratorio de peste en Rusia",
+      "url": "https://www.france24.com/es/europa/20261011-la-oms-a%C3%BAn-desconoce-qu%C3%A9-caus%C3%B3-la-muerte-de-una-trabajadora-de-un-laboratorio-de-peste-en-rusia",
+      "excerpt": "La Organización Mundial de la Salud informó que las pruebas realizadas a la trabajadora y a sus contactos dieron negativo para los patógenos de alto riesgo analizados y que no hay…",
+      "publishedAt": "2026-10-11T01:58:39.000Z",
+      "sourceId": "france24-es",
+      "sourceName": "France 24",
+      "sourceDomain": "france24.com"
+    },
+    {
+      "title": "12 muertos y más de 300 heridos en ataques de los rebeldes hutíes contra el aeropuerto de Riad",
+      "url": "https://www.france24.com/es/medio-oriente/20261011-12-muertos-y-m%C3%A1s-de-300-heridos-en-ataques-de-los-rebeldes-hut%C3%ADes-contra-el-aeropuerto-de-riad",
+      "excerpt": "Arabia Saudita vivió la ofensiva más mortífera en cualquier país del golfo Pérsico desde el inicio del conflicto en Medio Oriente, cuando un bombardeo con misiles de los rebeldes…",
+      "publishedAt": "2026-10-11T01:53:25.000Z",
+      "sourceId": "france24-es",
+      "sourceName": "France 24",
+      "sourceDomain": "france24.com"
+    },
+    {
+      "title": "Al menos 12 muertos y más de 300 heridos en un ataque contra el aeropuerto internacional de Riad, la capital de Arabia Saudita",
+      "url": "https://www.bbc.com/mundo/articles/c94g13g4zz8do?at_medium=RSS&at_campaign=rss",
+      "excerpt": "El hecho ocurre días después de que los hutíes de Yemen reivindicaran ataques similares contra dicha instalación.",
+      "publishedAt": "2026-10-11T01:06:52.000Z",
+      "sourceId": "bbc-mundo",
+      "sourceName": "BBC Mundo",
+      "sourceDomain": "bbc.com"
+    },
+    {
+      "title": "Los jóvenes israelíes se preparan para votar: ¿hacia dónde se inclina su voto?",
+      "url": "https://www.france24.com/es/video/20261011-los-j%C3%B3venes-israel%C3%ADes-se-preparan-para-votar-hacia-d%C3%B3nde-se-inclina-su-voto",
+      "excerpt": "A pocas semanas de las elecciones legislativas del 27 de octubre en Israel, una nueva generación de israelíes se prepara para acudir a las urnas por primera vez desde que Hamás…",
+      "publishedAt": "2026-10-11T00:57:30.000Z",
+      "sourceId": "france24-es",
+      "sourceName": "France 24",
+      "sourceDomain": "france24.com"
+    },
+    {
+      "title": "Trump arremete contra Zelenski y asegura que Ucrania necesita un \"nuevo presidente\"",
+      "url": "https://www.france24.com/es/video/20261011-trump-arremete-contra-zelenski-y-asegura-que-ucrania-necesita-un-nuevo-presidente",
+      "excerpt": "El presidente de Estados Unidos, Donald Trump, afirmó que Ucrania debería tener un nuevo mandatario capaz de negociar el fin de la guerra con Rusia, en una dura crítica contra el…",
+      "publishedAt": "2026-10-11T00:54:09.000Z",
+      "sourceId": "france24-es",
+      "sourceName": "France 24",
+      "sourceDomain": "france24.com"
+    },
+    {
+      "title": "Devoluciones forzosas y bajo engaño de Ceuta a Marruecos: testimonios de inmigrantes confirman que el Gobierno ampara retornos sin garantías",
+      "url": "https://www.elmundo.es/espana/2026/10/11/6aca28e121efa0457e8b459e.html",
+      "excerpt": "Desalojados de El Trampolín relatan a EL MUNDO cómo les llevan al otro lado de la frontera española y la gendarmería de Rabat les lleva en autobuses a cientos de kilómetros de sus…",
+      "publishedAt": "2026-10-11T00:06:19.000Z",
+      "sourceId": "el-mundo",
+      "sourceName": "El Mundo",
+      "sourceDomain": "elmundo.es"
+    },
+    {
+      "title": "Lo que escribió Cuerpo en Bruselas y lo que dijo Calviño en el Gobierno: No a intervenir los precios de los alquileres",
+      "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/11/6ac77478e4d4d8eb298b4573.html",
+      "excerpt": "La política de vivienda de Sánchez contradice la posición tradicional incluso por escrito de sus dos ministros de Economía estos ocho años, que han terminado asumiendo la…",
+      "publishedAt": "2026-10-11T00:06:18.000Z",
+      "sourceId": "el-mundo",
+      "sourceName": "El Mundo",
+      "sourceDomain": "elmundo.es"
+    },
+    {
+      "title": "El PP se centra en taponar las fugas a Vox ante el temor a que Abascal se dispare: \"Sólo votar a Feijóo garantiza el cambio\"",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/11/6aca5a35fdddff406b8b456d.html",
+      "excerpt": "Los 'populares' inician la campaña para pugnar por el voto \"fronterizo\" con los de Abascal, que sitúan en al menos un 10% del electorado Leer",
+      "publishedAt": "2026-10-11T00:06:17.000Z",
+      "sourceId": "el-mundo",
+      "sourceName": "El Mundo",
+      "sourceDomain": "elmundo.es"
+    }
+  ]
+}

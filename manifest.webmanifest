@@ -1,0 +1,54 @@
+{
+  "id": "/?source=pwa",
+  "name": "TRUE — Periodismo ciudadano verificado",
+  "short_name": "TRUE",
+  "description": "Información verificada por el ciudadano, contrastada por datos. Ningún borrador se publica sin superar el pipeline de verificación algorítmica.",
+  "lang": "es",
+  "dir": "ltr",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#0A0F1A",
+  "theme_color": "#0F172A",
+  "categories": ["news", "magazines", "education", "productivity"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Escribir noticia",
+      "short_name": "Redactar",
+      "description": "Abrir la mesa de redacción y enviar un borrador al pipeline de verificación.",
+      "url": "/redactar?source=pwa",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    },
+    {
+      "name": "Para ti",
+      "short_name": "Para ti",
+      "description": "La portada personalizada según las secciones que sigue.",
+      "url": "/para-ti?source=pwa",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    },
+    {
+      "name": "Índice completo",
+      "short_name": "Índice",
+      "description": "Buscar y filtrar sobre todo el corpus verificado.",
+      "url": "/indice?source=pwa",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    }
+  ]
+}

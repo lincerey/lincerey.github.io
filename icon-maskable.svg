@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="TRUE">
+  <!--
+    Icono "maskable" para la PWA.
+    Android recorta este icono con la forma del lanzador (círculo, gota, etc.),
+    así que TODO el contenido relevante vive dentro del 80 % central (zona
+    segura). Por eso no se reutiliza la marca completa con la palabra "TRUE":
+    a ese tamaño el texto quedaría fuera de la zona segura. Se usa el monograma
+    "T" con la barra cobalto, que sigue siendo inequívocamente TRUE y sobrevive
+    a cualquier recorte.
+  -->
+  <defs>
+    <linearGradient id="trueMaskBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111C33" />
+      <stop offset="100%" stop-color="#080D18" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" fill="url(#trueMaskBg)" />
+  <!-- Monograma dentro de la zona segura (14–50) -->
+  <path d="M20 22h24" stroke="#8AB4FF" stroke-width="3" stroke-linecap="square" />
+  <path d="M32 24v20" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="square" />
+  <path d="M23 45h18" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="square" opacity="0.9" />
+</svg>

@@ -1,0 +1,16 @@
+# TRUE — ads.txt
+#
+# Este archivo declara qué vendedores están autorizados a vender inventario
+# de este dominio. Google lo exige para AdSense.
+#
+# NO HAY NINGÚN VENDEDOR DECLARADO TODAVÍA porque el identificador de
+# editor no está configurado. No se escribe un `pub-` de ejemplo: declarar
+# un vendedor ajeno es un error que puede costar la aprobación.
+#
+# PARA ACTIVARLO:
+#   1. Aprueba tu cuenta en https://adsense.google.com
+#   2. Copia tu identificador (formato ca-pub-0000000000000000)
+#   3. Defínelo en el entorno como VITE_ADSENSE_CLIENT y vuelve a compilar.
+#
+# La línea resultante tendrá esta forma (los cuatro campos son obligatorios):
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0F172A" />
+    <title>TRUE — Sin conexión</title>
+    <meta name="robots" content="noindex" />
+    <!--
+      Página de respaldo del service worker.
+      Es AUTOCONTENIDA a propósito: sin hojas de estilo ni tipografías externas
+      y sin el bundle de JavaScript. Si dependiera del bundle, precisamente el
+      escenario que la invoca (origen inaccesible) la dejaría en blanco.
+    -->
+    <style>
+      :root {
+        --night: #0b1220;
+        --paper: #ffffff;
+        --cobalt: #1e3a8a;
+        --editorial: #334155;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 32px 20px;
+        background: #f8f9fa;
+        color: var(--night);
+        font-family: Georgia, 'Times New Roman', serif;
+      }
+      .card {
+        width: 100%;
+        max-width: 620px;
+        border-top: 4px solid var(--night);
+        background: var(--paper);
+        padding: 40px 36px 36px;
+      }
+      .mark {
+        width: 64px;
+        height: 64px;
+        display: block;
+        margin-bottom: 22px;
+      }
+      .kicker {
+        margin: 0 0 10px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 0.2em;
+        text-transform: uppercase;
+        color: var(--cobalt);
+      }
+      h1 {
+        margin: 0;
+        font-size: clamp(1.7rem, 5vw, 2.4rem);
+        line-height: 1.1;
+        letter-spacing: -0.02em;
+      }
+      p {
+        margin: 16px 0 0;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.7;
+        color: var(--editorial);
+      }
+      .actions {
+        margin-top: 28px;
+        padding-top: 22px;
+        border-top: 1px solid #e2e8f0;
+      }
+      /* Se estiliza un ENLACE, no un botón con `onclick`: la CSP de producción
+         es `script-src 'self'` y bloquearía cualquier manejador en línea. Un
+         enlace funciona sin JavaScript, que es justo lo que hace falta aquí. */
+      .retry {
+        display: inline-block;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        padding: 14px 26px;
+        border: 1px solid var(--cobalt);
+        background: var(--cobalt);
+        color: #fff;
+        text-decoration: none;
+      }
+      .retry:hover {
+        background: #172554;
+        border-color: #172554;
+      }
+      .note {
+        margin-top: 18px;
+        font-size: 12.5px;
+        color: #64748b;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <svg class="mark" viewBox="0 0 64 64" role="img" aria-label="TRUE">
+        <title>TRUE</title>
+        <rect width="64" height="64" fill="#0F172A" />
+        <rect x="6" y="6" width="52" height="52" fill="none" stroke="#FFFFFF" stroke-width="1.5" />
+        <path d="M12 22h40" stroke="#1E3A8A" stroke-width="3" stroke-linecap="square" />
+        <text
+          x="32"
+          y="46"
+          font-family="Georgia, serif"
+          font-size="26"
+          font-weight="700"
+          fill="#FFFFFF"
+          text-anchor="middle"
+          letter-spacing="-1"
+        >
+          TRUE
+        </text>
+      </svg>
+
+      <p class="kicker">Modo lectura sin conexión</p>
+      <h1>No hemos podido alcanzar el servidor.</h1>
+      <p>
+        La portada sigue disponible desde la copia local: puede seguir leyendo las piezas que ya
+        visitó. La verificación de borradores y los datos en vivo necesitan conexión, así que están
+        pausados.
+      </p>
+      <p>
+        Nada de lo que escriba se pierde mientras esté sin conexión: el editor guarda el borrador en
+        este dispositivo y el pipeline lo auditará en cuanto vuelva la red.
+      </p>
+
+      <div class="actions">
+        <a class="retry" href="/">Reintentar la conexión</a>
+        <p class="note">
+          Si el problema persiste, abra TRUE desde la aplicación instalada o compruebe su conexión.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

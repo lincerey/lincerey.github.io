@@ -1,0 +1,8 @@
+# TRUE — directrices para rastreadores
+User-agent: *
+Allow: /
+Disallow: /redactar
+
+# La publicidad y los recursos de medición de Google se rastrean aparte.
+User-agent: Mediapartners-Google
+Allow: /
