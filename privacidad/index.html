@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#1E3A8A" />
+    <title>TRUE — Información verificada por el ciudadano, contrastada por datos</title>
+    <meta
+      name="description"
+      content="TRUE es una plataforma editorial de periodismo ciudadano: cada borrador pasa por un pipeline de verificación algorítmica antes de publicarse. Sin verificación no hay publicación."
+    />
+    <meta name="color-scheme" content="light dark" />
+
+    <!--
+      TEMA SIN DESTELLO
+      `theme-boot.js` se carga de forma bloqueante ANTES de pintar y escribe
+      `data-theme` en <html>. Es un recurso propio (no un script en línea)
+      porque la CSP de producción es `script-src 'self'`.
+    -->
+    <script src="/theme-boot.js"></script>
+
+    <!-- Aplicación web instalable (PWA) -->
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="application-name" content="TRUE" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="TRUE" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="format-detection" content="telephone=no" />
+
+    <!-- Open Graph / compartibilidad editorial -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="TRUE" />
+    <meta property="og:title" content="TRUE — Periodismo ciudadano verificado" />
+    <meta
+      property="og:description"
+      content="Información verificada por el ciudadano, contrastada por datos."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
+
+    <!-- Tipografía editorial: serif de alto impacto + sans humanista condensada -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,600&family=Inter:wght@300;400;500;600;700;800&display=swap"
+      media="print"
+      onload="this.media='all'"
+    />
+    <noscript>
+      <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@400;600;700&display=swap"
+      />
+    </noscript>
+
+    <!--
+      NOTA DE SEGURIDAD (CSP):
+      La Content Security Policy NO se declara aquí. Una meta-CSP no soporta
+      `frame-ancestors` y rompería el HMR de Vite en desarrollo por el script
+      inline de react-refresh. La CSP estricta de producción se sirve como
+      cabecera HTTP real desde `public/_headers` (Netlify/Cloudflare Pages),
+      `vercel.json` y `server/index.js` (Express-free, Node puro).
+    -->
+    <script type="module" crossorigin src="/assets/index-CMONprGO.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-react-CvDLx_Cl.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-icons-CvQRV4ML.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-render-BtRAW8Fu.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-BSCPagPz.css">
+  </head>
+  <body>
+    <!-- Contenido de arranque: misma marca que el favicon, para que la primera
+         pintura no muestre un logotipo distinto al del resto del sitio. -->
+    <div id="root">
+      <div class="boot">
+        <svg class="boot__mark" viewBox="0 0 64 64" role="img" aria-label="TRUE">
+          <title>TRUE</title>
+          <rect width="64" height="64" fill="#0F172A" />
+          <rect x="6" y="6" width="52" height="52" fill="none" stroke="#FFFFFF" stroke-width="1.5" />
+          <path d="M12 22h40" stroke="#1E3A8A" stroke-width="3" stroke-linecap="square" />
+          <text x="32" y="46" font-family="Playfair Display, Georgia, serif" font-size="26"
+                font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="-1">TRUE</text>
+        </svg>
+        <p class="boot__tag">Información verificada por el ciudadano, contrastada por datos.</p>
+      </div>
+    </div>
+    <noscript>
+      <div style="max-width: 640px; margin: 64px auto; padding: 0 24px; font-family: Georgia, serif">
+        <h1>TRUE</h1>
+        <p>
+          Esta plataforma requiere JavaScript para ejecutar el motor de verificación. Active
+          JavaScript para continuar.
+        </p>
+      </div>
+    </noscript>
+  </body>
+</html>
